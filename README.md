@@ -1,3 +1,4 @@
+# Author - Kamal Raj
 # DockerImageAutomation
 Automating the Docker image functionality using Docker Client API
 
@@ -59,8 +60,8 @@ CreateContainerCmd createCommand = dockerClient.createContainerCmd("docker_servi
 	
   
   
-// Thanks
-// Kamal Raj								
+## Thanks
+							
 								   
 
 

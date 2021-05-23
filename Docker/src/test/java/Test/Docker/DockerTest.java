@@ -39,7 +39,7 @@ public class DockerTest {
 	String imageName = "tutum/hello-world";
 	String localImagePathName = "hello.tar.gz";
 
-	@BeforeTest
+	@Test
 	public void checkContainer() throws FileNotFoundException, IOException {
 		boolean b = false;
 		RunningContainer = dockerClient.listContainersCmd().exec();

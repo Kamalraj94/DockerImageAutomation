@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-22T22:32:14 IST" name="Suite" finished-at="2021-05-22T22:32:27 IST" duration-ms="12828">
+    <groups>
+    </groups>
+    <test started-at="2021-05-22T22:32:14 IST" name="Test" finished-at="2021-05-22T22:32:27 IST" duration-ms="12828">
+      <class name="Test.Docker.DockerTest">
+        <test-method is-config="true" signature="checkContainer()[pri:0, instance:Test.Docker.DockerTest@4650a407]" started-at="2021-05-22T22:32:14 IST" name="checkContainer" finished-at="2021-05-22T22:32:15 IST" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContainer -->
+        <test-method is-config="true" signature="containerStatus()[pri:0, instance:Test.Docker.DockerTest@4650a407]" started-at="2021-05-22T22:32:15 IST" name="containerStatus" finished-at="2021-05-22T22:32:27 IST" duration-ms="11815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- containerStatus -->
+      </class> <!-- Test.Docker.DockerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
